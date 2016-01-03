@@ -1,0 +1,26 @@
+.leftHalf {
+	width: 300px;
+	margin-left: 0px;
+	margin-right: auto;
+	height: 130px;
+	/* background-color: rgba(50, 50, 200, 0.5); */
+	border-radius: 0px 10px 10px 0px;
+	border-style: solid solid solid none;
+}
+
+.leftHalfContainer {
+	position: absolute;
+	top: 50%;
+	margin-top: -120px;
+	left: 0;
+	width: 100%;
+}
+
+.prtViewTopicList {
+	margin-top: -10px;
+}
+
+
+.topicItem {
+
+}

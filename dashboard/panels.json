@@ -1,0 +1,9 @@
+[
+	{
+		"name": "prt-topiclist",
+		"title": "PRT Topic List",
+		"width": 2,
+		"file": "panel.html",
+		"faIcon": "fa-star"
+	}
+]
